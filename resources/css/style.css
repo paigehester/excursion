@@ -22,7 +22,10 @@ h3 {
   color: gray;
 }
 
-/*come back to this (for the link)*/
+.footer {
+  text-align: right;
+}
+
 a  {
     color: aquamarine;
   font-size: 16px;
